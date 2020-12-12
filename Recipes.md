@@ -1,5 +1,5 @@
 ---
-tags: [grill][chicken]
+tags: [grill],[chicken]
 --- 
 
 # Recipes
