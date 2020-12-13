@@ -16,3 +16,9 @@ The other best way to cook food. I like to grill in the summer.
 
 
 ## Baking 
+
+## Special Days and Events
+
+1. [[Hanukkah]] Hanukkah
+2. Thanksgiving
+3. Christmas
