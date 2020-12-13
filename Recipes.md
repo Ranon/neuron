@@ -1,6 +1,3 @@
----
-tags: [grill][chicken]
---- 
 
 # Recipes
 
@@ -20,5 +17,6 @@ The other best way to cook food. I like to grill in the summer.
 ## Special Days and Events
 
 1. [[Hanukkah]] 
-2. Thanksgiving
-3. Christmas
+2. [[[Thanksgiving]]] 
+3. Thanksgiving
+4. Christmas
