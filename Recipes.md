@@ -11,8 +11,11 @@ I like to cook a few different types of things.
 
 The other best way to cook food. I like to grill in the summer. 
 
+1. [[Spatchcock Chicken]] #sameday
 
 ## Baking 
+- Sourdough
+- Ciabatta - #sameday
 
 ## Special Days and Events
 
