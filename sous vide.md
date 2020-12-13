@@ -1,5 +1,3 @@
-[[z:zettels?tag=Recipes&Steak]]
-
 # Sous Vide
 
 Let's talk sous vide recipes. 
