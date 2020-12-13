@@ -14,6 +14,7 @@ Let's talk Hannukah recipes.
 - Add eggs, maybe 3.
 - Add flour until stiff.
 - Heat a flat bottomed pan to a 7/10 heat. 
+    - *Use the cast iron because the pan is hard to clean after.* 
 - Once smoking, place latke's in the pan, pretty flat if possible. 
 - Cook for ~2-3 minutes a side, flip once. 
 
