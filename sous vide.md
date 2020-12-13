@@ -1,5 +1,5 @@
 ---
-tags: [sous vide, steak]
+[[z:zettels?tag=Recipes]]
 ---
 
 # Sous Vide
