@@ -16,3 +16,4 @@ Let's talk Hannukah recipes.
 - Heat a flat bottomed pan to a 7/10 heat. 
 - Once smoking, place latke's in the pan, pretty flat if possible. 
 - Cook for ~2-3 minutes a side, flip once. 
+

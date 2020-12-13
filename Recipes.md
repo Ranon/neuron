@@ -6,17 +6,13 @@ tags: [grill],[chicken]
 
 I like to cook a few different types of things. 
 
-
 ## Sous Vide
 
 [Sous vide](https://ranon.github.io/neuron/sous_vide.html) is the water bath method. You can use some instant pots or a more purposeful device.
 
 ## Grilling 
 
+The other best way to cook food. I like to grill in the summer. 
 
-The best way to cook food. 
 
-### Chicken 
-
-- Cut the chicken in half along the back bone. 
-- Push the chic
+## Baking 

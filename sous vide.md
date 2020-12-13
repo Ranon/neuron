@@ -13,3 +13,4 @@ Let's talk sous vide recipes.
 - Pull the steak out and rest for 15 minutes.
 - Sear using the [TS8000KC](https://www.homedepot.com/p/Bernzomatic-TS8000KC-Premium-Torch-Kit-336638/205683985) Premium Torch until browned on all sides.
 - EAT!
+
