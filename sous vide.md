@@ -1,6 +1,4 @@
-[[z:zettels?tag=Recipes]]
-
-[[[Recipes]]]
+[[z:zettels?tag=Recipes&Steak]]
 
 # Sous Vide
 
