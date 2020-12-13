@@ -1,5 +1,6 @@
 [[z:zettels?tag=Recipes]]
 
+[[[Recipes]]]
 
 # Sous Vide
 
