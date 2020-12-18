@@ -13,12 +13,13 @@ The #Turkey is obviously the main dish for Thanksgiving. Our family has tried it
 
 ### The Best Way
 
-Brine the turkey, then debone it and roll herbs/stuffing into it. This is a super time intensive task but will almost always produce a beautifully moist white & dark meat that carves well. 
+Brine the turkey, then debone it and roll herbs/stuffing into it. This is a super time intensive task but will almost always produce a beautifully moist white & dar
+k meat that carves well. 
 
 1. Start defrosting the turkey 6 days in advance of thanksgiving days in advance.
 2. By day 4 it should be thawed out. Start brining it. 
-    3. Brines are fluid. See the very popular one below. 
-4. Now you are going to cut that thing apart. It takes about 2 hours start to finish including cleaning. 
+    3. Brines are a dime a dozen. See the very popular one below or use your own. 
+4. Now you are going to cut that thing apart but keeping it as one piece. It takes about 2 hours start to finish including cleaning. 
 
 
 ### Brine Recipe 

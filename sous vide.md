@@ -11,3 +11,8 @@ Let's talk sous vide recipes.
     - Make sure not to put the pepper on prior to the sear, or the torch will burn the pepper creating a bitter, unpleasant flavor. 
 - EAT!
 
+- Rib Eye should be cooked to 137 F to render the fat, though I've never tried this. I've heard good things about it. If you do this, then you need to crash the steak when you take it out. Just take the steak out of the bath and put into an ice bath. After 10 mins, take it out, pat dry, then sear. Ghee is good for searing or avocado oil. Something with a high smoke point. 
+
+### Things to Try
+
+- This Alton Brown recipe for steak au poivre. You'll need cognac to make it. https://www.foodnetwork.com/recipes/alton-brown/steak-au-poivre-recipe-1916730 
